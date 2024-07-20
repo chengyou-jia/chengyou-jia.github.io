@@ -33,6 +33,7 @@ I am working in the field of CV & Multi-modal. My current research interests and
 Multimodal for Automated Agents
 - Object Detection & Identification: Person Search, Person Re-Identification
 
+<span class='anchor' id='-news'></span>
 
 # 🔥 News
 - *2024.07*: &nbsp; One paper is accepted by ACM-MM 2024. See you in Melbourne, Australia. 🎉🎉 
@@ -40,16 +41,20 @@ Multimodal for Automated Agents
 - *2023.09*: &nbsp; One paper is accepted by IEEE TIP. 🎉🎉 
 
 
+<span class='anchor' id='-educations'></span>
+
 # 📖 Educations
 - *2021.09 - 2026.06 (expected)*, M.S. + Ph.D Student, Computer Science, Xi'an Jiaotong University. &emsp;
 - *2017.09 - 2021.06*, B.S. in Computer Science, Xi'an Jiaotong University. 
+
+<span class='anchor' id='-internships'></span>
 
 # 💻 Internships
 - *2024.03 - Present*, Research Intern @ Shanghai AI LAB. Focus on Multimodal Agents for OS (Operating System).
 - *2022.12 - 2024.03*, Research Intern @ SGIT AI Lab, State Grid Corporation of China. Focus on Controllable Image Generation.
 
 
-
+<span class='anchor' id='-publications'></span>
 
 # 📝 Selected Publications 
 
@@ -104,7 +109,7 @@ Towards real-time person search with invariant feature learning
   Zhuohang Dang, Minnan Luo, **Chengyou Jia**, Caixia Yan, Xiaojun Chang, Qinghua Zheng
 
 
-
+<span class='anchor' id='-honors-and-awards'></span>
 
 # 🎖 Honors and Awards
 **Honors**
@@ -117,6 +122,8 @@ Towards real-time person search with invariant feature learning
 **Competition Awards**
 - *Jun.2021* &emsp; **Top 1%**s in the TianChi Global Video Cloud Innovation Challenge, Video Object Segmentation Algorithm Challenge (**8/2904**).
 
+
+<span class='anchor' id='-scholarships'></span>
 # 🎖 Scholarships
 - *2023.09* &emsp; Freshman First Prize Scholarship (PhD)
 - *2022.09* &emsp; First-Class Fellowships for Graduate Students at Xi’an Jiaotong University, Fellowships.
@@ -126,5 +133,6 @@ Towards real-time person search with invariant feature learning
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
+<span class='anchor' id='-academic-services'></span>
 # 💬 Academic Services
 - Reviewer: ECCV, AAAI, ICASSP, IEEE TIP and IEEE TNNLS.
