@@ -26,12 +26,14 @@ I have authored several publications in top-tier conferences and journals, inclu
 
 ## Research Interests
 
-I am working in the field of CV & Multi-modal. My current research interests and past experience can be summarized as follows:
+I am working in the field of CV 
+&amp; Multi-modal. My current research interests and past experience can be summarized as follows:
 
 - Controllable Image Generation: Text-to-image; Layout-to-image; Complex Scene Generation
 - Multimodal learning: Multimodal for Open-set Recognition;
 Multimodal for Automated Agents
-- Object Detection & Identification: Person Search, Person Re-Identification
+- Object Detection 
+&amp; Identification: Person Search, Person Re-Identification
 
 <span class='anchor' id='-news'></span>
 
@@ -90,7 +92,6 @@ Multimodal for Automated Agents
 
 #### 🧑‍ Other Paper
 
-Towards real-time person search with invariant feature learning
 
 - ``ICASSP 2023`` [Towards Real-time Person Search with Invariant Feature Learning](https://ieeexplore.ieee.org/abstract/document/10095679/) <span style="color:red">[CCF-B]</span> <br>
   **Chengyou Jia**, Minnan Luo, Zhuohang Dang, Xiaojun Chang, Qinghua Zheng
@@ -120,14 +121,14 @@ Towards real-time person search with invariant feature learning
 - *Sep.2018* &emsp; Outstanding Student in Xi’an Jiaotong University
 
 **Competition Awards**
-- *Jun.2021* &emsp; **Top 1%**s in the TianChi Global Video Cloud Innovation Challenge, Video Object Segmentation Algorithm Challenge (**8/2904**).
+- *Jun.2021* &emsp; **Top 1%** in the TianChi Global Video Cloud Innovation Challenge, Video Object Segmentation Algorithm Challenge (**8/2904**).
 
 
 <span class='anchor' id='-scholarships'></span>
 # 🎖 Scholarships
 - *2023.09* &emsp; Freshman First Prize Scholarship (PhD)
 - *2022.09* &emsp; First-Class Fellowships for Graduate Students at Xi’an Jiaotong University, Fellowships.
-- *2022.09* &emsp; Computer Science Special Scholarship at Xi’an Jiaotong University, Fellowships.
+- *2020.09* &emsp; Computer Science Special Scholarship at Xi’an Jiaotong University, Fellowships.
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
