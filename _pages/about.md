@@ -17,42 +17,114 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+# 🐯 About Me
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am Chengyou Jia (贾成铕), a Ph.D candidate in Xi’an Jiaotong University, major in Computer Science, under the supervision of [Prof. Minnan Luo](https://scholar.google.com/citations?user=C3ujEF0AAAAJ&hl). I am also working closely with [Prof. Xiaojun Chang](https://scholar.google.com/citations?user=8suupocAAAAJ&hl). I am currently a research intern at Shanghai AI LAB, supervised by [Dr. Zhiyong Wu](https://lividwo.github.io/zywu.github.io/).  Before starting my doctoral studies, I received my B.E. degree from Xi’an Jiaotong University in 2021.
+
+
+I have authored several publications in top-tier conferences and journals, including AAAI, ACM-MM, IEEE TIP, IEEE TCSVT, among others. I also serve as a reviewer for esteemed conferences and journals like ECCV, AAAI, ICASSP, IEEE TIP and IEEE TNNLS.
+
+## Research Interests
+
+I am working in the field of CV & Multi-modal. My current research interests and past experience can be summarized as follows:
+
+- Controllable Image Generation: Text-to-image; Layout-to-image; Complex Scene Generation
+- Multimodal learning: Multimodal for Open-set Recognition;
+Multimodal for Automated Agents
+- Object Detection & Identification: Person Search, Person Re-Identification
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.07*: &nbsp; One paper is accepted by ACM-MM 2024. See you in Melbourne, Australia. 🎉🎉 
+- *2023.11*: &nbsp; Two papers are accepted by AAAI 2024. 🎉🎉 
+- *2023.09*: &nbsp; One paper is accepted by IEEE TIP. 🎉🎉 
 
-# 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.09 - 2026.06 (expected)*, M.S. + Ph.D Student, Computer Science, Xi'an Jiaotong University. &emsp;
+- *2017.09 - 2021.06*, B.S. in Computer Science, Xi'an Jiaotong University. 
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2024.03 - Present*, Research Intern @ Shanghai AI LAB. Focus on Multimodal Agents for OS (Operating System).
+- *2022.12 - 2024.03*, Research Intern @ SGIT AI Lab, State Grid Corporation of China. Focus on Controllable Image Generation.
+
+
+
+
+# 📝 Selected Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM-MM 2024</div><img src='images/apclip.png' alt="sym" width="98%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Generating Action-conditioned Prompts for Open-vocabulary Video Action Recognition](https://arxiv.org/abs/2312.02226) <span style="color:red">[CCF-A]</span>
+
+**Chengyou Jia**, Minnan Luo, Xiaojun Chang, Zhuohang Dang, Mingfei Han, Mengmeng Wang, Guang Dai, Sizhe Dang, Jingdong Wang
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/ssmg.png' alt="sym" width="98%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SSMG: Spatial-semantic map guided diffusion model for free-form layout-to-image generation](https://ojs.aaai.org/index.php/AAAI/article/view/28024) <span style="color:red">[CCF-A]</span>
+
+**Chengyou Jia**, Minnan Luo, Zhuohang Dang, Guang Dai, Xiaojun Chang, Mengmeng Wang, Jingdong Wang
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIP</div><img src='images/ccr.png' alt="sym" width="98%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Collaborative Contrastive Refining for Weakly Supervised Person Search](https://ieeexplore.ieee.org/abstract/document/10234225) <span style="color:red">[CCF-A]</span>
+
+**Chengyou Jia**, Minnan Luo, Caixia Yan, Linchao Zhu, Xiaojun Chang, Qinghua Zheng
+
+</div>
+</div>
+
+#### 🧑‍ Other Paper
+
+Towards real-time person search with invariant feature learning
+
+- ``ICASSP 2023`` [Towards Real-time Person Search with Invariant Feature Learning](https://ieeexplore.ieee.org/abstract/document/10095679/) <span style="color:red">[CCF-B]</span> <br>
+  **Chengyou Jia**, Minnan Luo, Zhuohang Dang, Xiaojun Chang, Qinghua Zheng
+
+
+- ``Preprint`` [PSDiff: Diffusion Model for Person Search with Iterative and Collaborative Refinement](https://arxiv.org/abs/2309.11125) <span style="color:red"></span> <br>
+  **Chengyou Jia**, Minnan Luo, Zhuohang Dang, Guang Dai, Xiaojun Chang, Jingdong Wang, Qinghua Zheng
+
+- ``AAAI 2024`` [Noisy Correspondence Learning with Self-Reinforcing Errors Mitigation](https://ojs.aaai.org/index.php/AAAI/article/view/27911) <span style="color:red">[CCF-A]</span> <br>
+  Zhuohang Dang, Minnan Luo, **Chengyou Jia**, Guang Dai, Xiaojun Chang, Jingdong Wang
+
+- ``IEEE TIP`` [Disentangled Generation with Information Bottleneck for Enhanced Few-Shot Learning](https://ieeexplore.ieee.org/abstract/document/10542660) <span style="color:red">[CCF-A]</span> <br>
+  Zhuohang Dang, Minnan Luo, Jihong Wang, **Chengyou Jia**, Caixia Yan, Guang Dai, Xiaojun Chang, Qinghua Zheng
+
+- ``IEEE TCSVT`` [Counterfactual Generation Framework for Few-Shot Learning](https://ieeexplore.ieee.org/abstract/document/10035001/) <span style="color:red">[CCF-B]</span> <br>
+  Zhuohang Dang, Minnan Luo, **Chengyou Jia**, Caixia Yan, Xiaojun Chang, Qinghua Zheng
+
+
+
+
+# 🎖 Honors and Awards
+**Honors**
+- *Oct.2022* &emsp; Outstanding Graduate Student of Xi’an Jiaotong University, Award.
+- *Jun.2021* &emsp; Excellent bachelor degree thesis award (Top 1%), Award.
+- *Jun.2021* &emsp; Outstanding Graduate Student of Xi’an Jiaotong University, Award.
+- *Sep.2019* &emsp; Outstanding Student in Xi’an Jiaotong University
+- *Sep.2018* &emsp; Outstanding Student in Xi’an Jiaotong University
+
+**Competition Awards**
+- *Jun.2021* &emsp; **Top 1%**s in the TianChi Global Video Cloud Innovation Challenge, Video Object Segmentation Algorithm Challenge (**8/2904**).
+
+# 🎖 Scholarships
+- *2023.09* &emsp; Freshman First Prize Scholarship (PhD)
+- *2022.09* &emsp; First-Class Fellowships for Graduate Students at Xi’an Jiaotong University, Fellowships.
+- *2022.09* &emsp; Computer Science Special Scholarship at Xi’an Jiaotong University, Fellowships.
+
+<!-- # 💬 Invited Talks
+- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
+
+# 💬 Academic Services
+- Reviewer: ECCV, AAAI, ICASSP, IEEE TIP and IEEE TNNLS.
