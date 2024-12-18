@@ -19,7 +19,7 @@ redirect_from:
 
 # 😎 About Me
 
-I am Chengyou Jia (贾成铕), a Ph.D candidate in Xi’an Jiaotong University, major in Computer Science, under the supervision of [Prof. Minnan Luo](https://scholar.google.com/citations?user=C3ujEF0AAAAJ&hl). I am also working closely with [Prof. Xiaojun Chang](https://scholar.google.com/citations?user=8suupocAAAAJ&hl). I am currently a visiting student in Singapore under the supervision of [Pro. Ivor](#https://www.a-star.edu.sg/cfar/about-cfar/management/prof-ivor-tsang). Previously, I was a research intern at Shanghai AI LAB, supervised by [Dr. Zhiyong Wu](https://lividwo.github.io/zywu.github.io/). Before starting my doctoral studies, I received my B.E. degree from Xi’an Jiaotong University in 2021.
+I am Chengyou Jia (贾成铕), a Ph.D candidate in Xi’an Jiaotong University, major in Computer Science, under the supervision of [Prof. Minnan Luo](https://scholar.google.com/citations?user=C3ujEF0AAAAJ&hl). I am also working closely with [Prof. Xiaojun Chang](https://scholar.google.com/citations?user=8suupocAAAAJ&hl). I am currently a visiting student in Singapore under the supervision of [Pro. Ivor](https://www.a-star.edu.sg/cfar/about-cfar/management/prof-ivor-tsang). Previously, I was a research intern at Shanghai AI LAB, supervised by [Dr. Zhiyong Wu](https://lividwo.github.io/zywu.github.io/). Before starting my doctoral studies, I received my B.E. degree from Xi’an Jiaotong University in 2021.
 
 
 I have authored several publications in top-tier conferences and journals, including AAAI, ACM-MM, IEEE TIP, IEEE TCSVT, among others. I also serve as a reviewer for esteemed conferences and journals like ECCV, AAAI, ICASSP, IEEE TIP and IEEE TNNLS.
