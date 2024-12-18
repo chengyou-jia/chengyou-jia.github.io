@@ -19,7 +19,7 @@ redirect_from:
 
 # 😎 About Me
 
-I am Chengyou Jia (贾成铕), a Ph.D candidate in Xi’an Jiaotong University, major in Computer Science, under the supervision of [Prof. Minnan Luo](https://scholar.google.com/citations?user=C3ujEF0AAAAJ&hl). I am also working closely with [Prof. Xiaojun Chang](https://scholar.google.com/citations?user=8suupocAAAAJ&hl). I am currently a research intern at Shanghai AI LAB, supervised by [Dr. Zhiyong Wu](https://lividwo.github.io/zywu.github.io/).  Before starting my doctoral studies, I received my B.E. degree from Xi’an Jiaotong University in 2021.
+I am Chengyou Jia (贾成铕), a Ph.D candidate in Xi’an Jiaotong University, major in Computer Science, under the supervision of [Prof. Minnan Luo](https://scholar.google.com/citations?user=C3ujEF0AAAAJ&hl). I am also working closely with [Prof. Xiaojun Chang](https://scholar.google.com/citations?user=8suupocAAAAJ&hl). I am currently a visiting student in Singapore under the supervision of [Pro. Ivor](#https://www.a-star.edu.sg/cfar/about-cfar/management/prof-ivor-tsang). Previously, I was a research intern at Shanghai AI LAB, supervised by [Dr. Zhiyong Wu](https://lividwo.github.io/zywu.github.io/). Before starting my doctoral studies, I received my B.E. degree from Xi’an Jiaotong University in 2021.
 
 
 I have authored several publications in top-tier conferences and journals, including AAAI, ACM-MM, IEEE TIP, IEEE TCSVT, among others. I also serve as a reviewer for esteemed conferences and journals like ECCV, AAAI, ICASSP, IEEE TIP and IEEE TNNLS.
@@ -38,6 +38,8 @@ Multimodal for Automated Agents
 <span class='anchor' id='-news'></span>
 
 # 🔥 News
+- *2024.11*: &nbsp; Our papers [ChatGen, OS-Atlas, AgentStore] are recently released. 🎉🎉 
+- *2024.10*: &nbsp; Ended a fulfilling internship at Shanghai AI Lab and started as a visiting student in Singapore.
 - *2024.07*: &nbsp; One paper is accepted by ACM-MM 2024. See you in Melbourne, Australia. 🎉🎉 
 - *2023.11*: &nbsp; Two papers are accepted by AAAI 2024. 🎉🎉 
 - *2023.09*: &nbsp; One paper is accepted by IEEE TIP. 🎉🎉 
@@ -52,13 +54,62 @@ Multimodal for Automated Agents
 <span class='anchor' id='-internships'></span>
 
 # 💻 Internships
-- *2024.03 - Present*, Research Intern @ Shanghai AI LAB. Focus on Multimodal Agents for OS (Operating System).
+- *2024.11 - Present*, Research Intern @ CFAR, A*STAR. Focus on Multimodal Agents for Image Generation.
+- *2024.03 - 2024.10*, Research Intern @ Shanghai AI LAB. Focus on Multimodal Agents for OS (Operating System).
 - *2022.12 - 2024.03*, Research Intern @ SGIT AI Lab, State Grid Corporation of China. Focus on Controllable Image Generation.
 
 
 <span class='anchor' id='-publications'></span>
 
 # 📝 Selected Publications 
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/ChatGen.png' alt="sym" width="98%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ChatGen: Automatic Text-to-Image Generation From FreeStyle Chatting 🔥🔥](https://arxiv.org/abs/2411.17176) <span style="color:red">[Preprint]</span> \\
+**Chengyou Jia\***, Changliang Xia\*, Zhuohang Dang, Weijia Wu, Hangwei Qian, Minnan Luo
+
+(\* means equal contributions)
+
+[**Code**](https://github.com/chengyou-jia/ChatGen) &nbsp;
+[**Project Page**](https://chengyou-jia.github.io/ChatGen-Home/) &nbsp;
+[**Datasets**](https://huggingface.co/datasets/ChengyouJia/ChatGenBench) &nbsp;
+[**Models**](https://huggingface.co/collections/ChengyouJia/chatgen-6744724ae834402b5b69037b) &nbsp;
+[![](https://img.shields.io/github/stars/chengyou-jia/ChatGen?style=social&label=Code+Stars)](https://github.com/chengyou-jia/ChatGen)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/OSAtlas.png' alt="sym" width="98%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[OS-ATLAS: A Foundation Action Model for Generalist GUI Agents 🔥🔥](https://arxiv.org/abs/2410.23218) <span style="color:red">[Preprint]</span> \\
+Zhiyong Wu, Zhenyu Wu, Fangzhi Xu, Yian Wang, Qiushi Sun, **Chengyou Jia**, Kanzhi Cheng, Zichen Ding, Liheng Chen, Paul Pu Liang, Yu Qiao
+
+[**Code**](https://github.com/OS-Copilot/OS-Atlas) &nbsp;
+[**Project Page**](https://osatlas.github.io) &nbsp;
+[**Demo**](https://huggingface.co/spaces/maxiw/OS-ATLAS) &nbsp;
+[![](https://img.shields.io/github/stars/OS-Copilot/OS-Atlas?style=social&label=Code+Stars)](https://github.com/OS-Copilot/OS-Atlas)
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/AgentStore.png' alt="sym" width="98%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[AgentStore: Scalable Integration of Heterogeneous Agents As Specialized Generalist Computer Assistant 🔥🔥](https://arxiv.org/abs/2410.18603) <span style="color:red">[Preprint]</span> \\
+**Chengyou Jia**, Minnan Luo, Zhuohang Dang, Qiushi Sun, Fangzhi Xu, Junlin Hu, Tianbao Xie, Zhiyong Wu
+
+[**Code**](https://github.com/chengyou-jia/AgentStore) &nbsp;
+[**Project Page**](https://chengyou-jia.github.io/AgentStore-Home/) &nbsp;
+[![](https://img.shields.io/github/stars/chengyou-jia/AgentStore?style=social&label=Code+Stars)](https://github.com/chengyou-jia/AgentStore)
+
+</div>
+</div>
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM-MM 2024</div><img src='images/apclip.png' alt="sym" width="98%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -96,19 +147,23 @@ Multimodal for Automated Agents
 - ``ICASSP 2023`` [Towards Real-time Person Search with Invariant Feature Learning](https://ieeexplore.ieee.org/abstract/document/10095679/) <span style="color:red">[CCF-B]</span> <br>
   **Chengyou Jia**, Minnan Luo, Zhuohang Dang, Xiaojun Chang, Qinghua Zheng
 
-
 - ``Preprint`` [PSDiff: Diffusion Model for Person Search with Iterative and Collaborative Refinement](https://arxiv.org/abs/2309.11125) <span style="color:red"></span> <br>
   **Chengyou Jia**, Minnan Luo, Zhuohang Dang, Guang Dai, Xiaojun Chang, Jingdong Wang, Qinghua Zheng
 
 - ``AAAI 2024`` [Noisy Correspondence Learning with Self-Reinforcing Errors Mitigation](https://ojs.aaai.org/index.php/AAAI/article/view/27911) <span style="color:red">[CCF-A]</span> <br>
   Zhuohang Dang, Minnan Luo, **Chengyou Jia**, Guang Dai, Xiaojun Chang, Jingdong Wang
 
+   ``IEEE TCSVT`` [Disentangled representation learning with transmitted information bottleneck](https://ieeexplore.ieee.org/abstract/document/10637999) <span style="color:red">[CCF-B]</span> <br>
+  Zhuohang Dang, Minnan Luo, **Chengyou Jia**, Guang Dai, Jihong Wang, Xiaojun Chang, Jingdong Wang
+
 - ``IEEE TIP`` [Disentangled Generation with Information Bottleneck for Enhanced Few-Shot Learning](https://ieeexplore.ieee.org/abstract/document/10542660) <span style="color:red">[CCF-A]</span> <br>
   Zhuohang Dang, Minnan Luo, Jihong Wang, **Chengyou Jia**, Caixia Yan, Guang Dai, Xiaojun Chang, Qinghua Zheng
 
+  ``Preprint`` [Disentangled Noisy Correspondence Learning](https://arxiv.org/abs/2408.05503) <span style="color:red"></span> <br>
+  Zhuohang Dang, Minnan Luo, Jihong Wang, **Chengyou Jia**, Haochen Han, Herun Wan, Guang Dai, Xiaojun Chang, Jingdong Wang
+
 - ``IEEE TCSVT`` [Counterfactual Generation Framework for Few-Shot Learning](https://ieeexplore.ieee.org/abstract/document/10035001/) <span style="color:red">[CCF-B]</span> <br>
   Zhuohang Dang, Minnan Luo, **Chengyou Jia**, Caixia Yan, Xiaojun Chang, Qinghua Zheng
-
 
 <span class='anchor' id='-honors-and-awards'></span>
 
@@ -136,4 +191,4 @@ Multimodal for Automated Agents
 
 <span class='anchor' id='-academic-services'></span>
 # 💬 Academic Services
-- Reviewer: ECCV, AAAI, ICASSP, IEEE TIP and IEEE TNNLS.
+- Reviewer: ECCV, AAAI, ICASSP, IEEE TIP, IEEE TCSVT and IEEE TNNLS.
