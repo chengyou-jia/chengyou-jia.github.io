@@ -38,6 +38,7 @@ Multimodal for Automated Agents
 <span class='anchor' id='-news'></span>
 
 # 🔥 News
+- *2024.12*: &nbsp; Our paper [OS-Genesis] is recently released 🚀🚀!
 - *2024.12*: &nbsp; One paper is accepted by IEEE TCSVT. 🎉🎉 
 - *2024.11*: &nbsp; Our papers [ChatGen, OS-Atlas, AgentStore] are recently released. 🎉🎉 
 - *2024.10*: &nbsp; Ended a fulfilling internship at Shanghai AI Lab and started as a visiting student in Singapore.
@@ -144,6 +145,12 @@ Zhiyong Wu, Zhenyu Wu, Fangzhi Xu, Yian Wang, Qiushi Sun, **Chengyou Jia**, Kanz
 
 #### 🧑‍ Other Paper
 
+
+Preprint 
+Qiushi Sun, Kanzhi Cheng, Zichen Ding, Chuanyang Jin, Yian Wang, Fangzhi Xu, Zhenyu Wu, Chengyou Jia, Liheng Chen, Zhoumianze Liu, Ben Kao, Guohao Li, Junxian He, Yu Qiao, Zhiyong Wu
+
+- ``Preprint`` [OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse Task Synthesis](https://arxiv.org/abs/2412.19723) <span style="color:red"></span> <br>
+Qiushi Sun, Kanzhi Cheng, Zichen Ding, Chuanyang Jin, Yian Wang, Fangzhi Xu, Zhenyu Wu, **Chengyou Jia**, Liheng Chen, Zhoumianze Liu, Ben Kao, Guohao Li, Junxian He, Yu Qiao, Zhiyong Wu
 
 - ``IEEE TCSVT`` [PSDiff: Diffusion Model for Person Search with Iterative and Collaborative Refinement](https://arxiv.org/abs/2309.11125) <span style="color:red">[CCF-B]</span> <br>
   **Chengyou Jia**, Minnan Luo, Zhuohang Dang, Guang Dai, Xiaojun Chang, Jingdong Wang, Qinghua Zheng
