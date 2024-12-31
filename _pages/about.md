@@ -38,7 +38,7 @@ Multimodal for Automated Agents
 <span class='anchor' id='-news'></span>
 
 # 🔥 News
-- *2024.12*: &nbsp; Our paper [OS-Genesis] is recently released 🚀🚀!
+- *2024.12*: &nbsp; Our paper [OS-Genesis] is recently released. 🎉🎉 
 - *2024.12*: &nbsp; One paper is accepted by IEEE TCSVT. 🎉🎉 
 - *2024.11*: &nbsp; Our papers [ChatGen, OS-Atlas, AgentStore] are recently released. 🎉🎉 
 - *2024.10*: &nbsp; Ended a fulfilling internship at Shanghai AI Lab and started as a visiting student in Singapore.
