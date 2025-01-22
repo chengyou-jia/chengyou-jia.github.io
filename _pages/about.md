@@ -83,20 +83,6 @@ Multimodal for Automated Agents
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/OSAtlas.png' alt="sym" width="98%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[OS-ATLAS: A Foundation Action Model for Generalist GUI Agents 🔥🔥](https://arxiv.org/abs/2410.23218) <span style="color:red">[Preprint]</span> \\
-Zhiyong Wu, Zhenyu Wu, Fangzhi Xu, Yian Wang, Qiushi Sun, **Chengyou Jia**, Kanzhi Cheng, Zichen Ding, Liheng Chen, Paul Pu Liang, Yu Qiao
-
-[**Code**](https://github.com/OS-Copilot/OS-Atlas) &nbsp;
-[**Project Page**](https://osatlas.github.io) &nbsp;
-[**Demo**](https://huggingface.co/spaces/maxiw/OS-ATLAS) &nbsp;
-[![](https://img.shields.io/github/stars/OS-Copilot/OS-Atlas?style=social&label=Code+Stars)](https://github.com/OS-Copilot/OS-Atlas)
-
-</div>
-</div>
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/AgentStore.png' alt="sym" width="98%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -107,6 +93,20 @@ Zhiyong Wu, Zhenyu Wu, Fangzhi Xu, Yian Wang, Qiushi Sun, **Chengyou Jia**, Kanz
 [**Code**](https://github.com/chengyou-jia/AgentStore) &nbsp;
 [**Project Page**](https://chengyou-jia.github.io/AgentStore-Home/) &nbsp;
 [![](https://img.shields.io/github/stars/chengyou-jia/AgentStore?style=social&label=Code+Stars)](https://github.com/chengyou-jia/AgentStore)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR2025</div><img src='images/OSAtlas.png' alt="sym" width="98%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[OS-ATLAS: A Foundation Action Model for Generalist GUI Agents 🔥🔥](https://arxiv.org/abs/2410.23218) <span style="color:red"></span> \\
+Zhiyong Wu, Zhenyu Wu, Fangzhi Xu, Yian Wang, Qiushi Sun, **Chengyou Jia**, Kanzhi Cheng, Zichen Ding, Liheng Chen, Paul Pu Liang, Yu Qiao
+
+[**Code**](https://github.com/OS-Copilot/OS-Atlas) &nbsp;
+[**Project Page**](https://osatlas.github.io) &nbsp;
+[**Demo**](https://huggingface.co/spaces/maxiw/OS-ATLAS) &nbsp;
+[![](https://img.shields.io/github/stars/OS-Copilot/OS-Atlas?style=social&label=Code+Stars)](https://github.com/OS-Copilot/OS-Atlas)
 
 </div>
 </div>
