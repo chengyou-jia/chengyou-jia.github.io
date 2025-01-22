@@ -97,10 +97,10 @@ Multimodal for Automated Agents
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR2025</div><img src='images/OSAtlas.png' alt="sym" width="98%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/OSAtlas.png' alt="sym" width="98%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[OS-ATLAS: A Foundation Action Model for Generalist GUI Agents 🔥🔥](https://arxiv.org/abs/2410.23218) <span style="color:red"></span> \\
+[OS-ATLAS: A Foundation Action Model for Generalist GUI Agents 🔥🔥](https://arxiv.org/abs/2410.23218) <span style="color:red">[CAAI-A]</span> \\
 Zhiyong Wu, Zhenyu Wu, Fangzhi Xu, Yian Wang, Qiushi Sun, **Chengyou Jia**, Kanzhi Cheng, Zichen Ding, Liheng Chen, Paul Pu Liang, Yu Qiao
 
 [**Code**](https://github.com/OS-Copilot/OS-Atlas) &nbsp;
