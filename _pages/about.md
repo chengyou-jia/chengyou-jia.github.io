@@ -19,7 +19,7 @@ redirect_from:
 
 # 😎 About Me
 
-I am Chengyou Jia (贾成铕), a Ph.D candidate in Xi’an Jiaotong University, major in Computer Science, under the supervision of [Prof. Minnan Luo](https://scholar.google.com/citations?user=C3ujEF0AAAAJ&hl). I am also working closely with [Prof. Xiaojun Chang](https://scholar.google.com/citations?user=8suupocAAAAJ&hl). I am currently a visiting student in Singapore under the supervision of [Pro. Ivor](https://www.a-star.edu.sg/cfar/about-cfar/management/prof-ivor-tsang). Previously, I was a research intern at Shanghai AI LAB, supervised by [Dr. Zhiyong Wu](https://lividwo.github.io/zywu.github.io/). Before starting my doctoral studies, I received my B.E. degree from Xi’an Jiaotong University in 2021.
+I am Chengyou Jia (贾成铕), a Ph.D candidate in Xi’an Jiaotong University, major in Computer Science, under the supervision of [Prof. Minnan Luo](https://scholar.google.com/citations?user=C3ujEF0AAAAJ&hl). I am also working closely with [Prof. Xiaojun Chang](https://scholar.google.com/citations?user=8suupocAAAAJ&hl). I am currently a visiting student in Singapore under the supervision of [Prof. Ivor](https://www.a-star.edu.sg/cfar/about-cfar/management/prof-ivor-tsang). Previously, I was a research intern at Shanghai AI LAB, supervised by [Dr. Zhiyong Wu](https://lividwo.github.io/zywu.github.io/). Before starting my doctoral studies, I received my B.E. degree from Xi’an Jiaotong University in 2021.
 
 
 I have authored several publications in top-tier conferences and journals, including AAAI, ACM-MM, IEEE TIP, IEEE TCSVT, among others. I also serve as a reviewer for esteemed conferences and journals like ECCV, AAAI, ICASSP, IEEE TIP and IEEE TNNLS.
@@ -38,6 +38,7 @@ Multimodal for Automated Agents
 <span class='anchor' id='-news'></span>
 
 # 🔥 News
+- *2025.01*: [OS-Atlas] is accepeted by ICLR 2025 (Spotlight). 🎉🎉 
 - *2024.12*: &nbsp; Our paper [OS-Genesis] is recently released. 🎉🎉 
 - *2024.12*: &nbsp; One paper is accepted by IEEE TCSVT. 🎉🎉 
 - *2024.11*: &nbsp; Our papers [ChatGen, OS-Atlas, AgentStore] are recently released. 🎉🎉 
@@ -145,8 +146,12 @@ Zhiyong Wu, Zhenyu Wu, Fangzhi Xu, Yian Wang, Qiushi Sun, **Chengyou Jia**, Kanz
 
 #### 🧑‍ Other Paper
 
+- ``Preprint`` [PhysReason: A Comprehensive Benchmark towards Physics-Based Reasoning](http://arxiv.org/abs/2502.12054) <span style="color:red"></span> <br>
+Xinyu Zhang, Yuxuan Dong, Yanrui Wu, Jiaxing Huang, **Chengyou Jia**, Basura Fernando, Mike Zheng Shou, Lingling Zhang, Jun Liu
+
 - ``Preprint`` [OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse Task Synthesis](https://arxiv.org/abs/2412.19723) <span style="color:red"></span> <br>
-Qiushi Sun, Kanzhi Cheng, Zichen Ding, Chuanyang Jin, Yian Wang, Fangzhi Xu, Zhenyu Wu, **Chengyou Jia**, Liheng Chen, Zhoumianze Liu, Ben Kao, Guohao Li, Junxian He, Yu Qiao, Zhiyong Wu
+Qiushi Sun, Kanzhi Cheng, Zichen Ding, Chuanyang Jin, Yian Wang, Fangzhi Xu, Zhenyu Wu, **Chengyou Jia**, Liheng Chen, Zhoumianze Liu, \\
+Ben Kao, Guohao Li, Junxian He, Yu Qiao, Zhiyong Wu
 
 - ``IEEE TCSVT`` [PSDiff: Diffusion Model for Person Search with Iterative and Collaborative Refinement](https://arxiv.org/abs/2309.11125) <span style="color:red">[CCF-B]</span> <br>
   **Chengyou Jia**, Minnan Luo, Zhuohang Dang, Guang Dai, Xiaojun Chang, Jingdong Wang, Qinghua Zheng
