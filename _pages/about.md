@@ -38,7 +38,8 @@ Multimodal for Automated Agents
 <span class='anchor' id='-news'></span>
 
 # 🔥 News
-- *2025.01*: &nbsp; [OS-Atlas] is accepeted by ICLR 2025 (Spotlight). 🎉🎉 
+- *2025.02*: &nbsp; ChatGen is accepeted by CVPR 2025. 🎉🎉 
+- *2025.01*: &nbsp; OS-Atlas is accepeted by ICLR 2025 (Spotlight). 🎉🎉 
 - *2024.12*: &nbsp; One paper is accepted by IEEE TCSVT. 🎉🎉 
 - *2024.11*: &nbsp; Our papers [ChatGen, OS-Atlas, AgentStore, OS-Genesis] are recently released. 🎉🎉 
 - *2024.10*: &nbsp; Ended a fulfilling internship at Shanghai AI Lab and started as a visiting student in Singapore.
