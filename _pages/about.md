@@ -71,19 +71,21 @@ Multimodal for Automated Agents
 # 📝 Selected Publications 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/ChatGen.png' alt="sym" width="98%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/t2is.png' alt="sym" width="98%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-
-[Why Settle for One? Text-to-ImageSet Generation and Evaluation 🔥](https://arxiv.org/abs/*) <span style="color:red">[CCF-A]</span> \\
+[Why Settle for One? Text-to-ImageSet Generation and Evaluation 🔥](https://arxiv.org/abs/*) <span style="color:red">Preprint</span> \\
 **Chengyou Jia**, Xin Shen, Zhuohang Dang, Changliang Xia, Weijia Wu, Xinyu Zhang, Huangwei Qian, Ivor Tsang, Minnan Luo
 
 (\* means equal contributions)
 
-[**Code**](https://github.com/chengyou-jia/T2IS) &nbsp;
 [**Project Page**](https://chengyou-jia.github.io/T2IS-Home/) &nbsp;
+[**Code**](https://chengyou-jia.github.io/T2IS-Home/) &nbsp;
 [**Datasets**](https://huggingface.co/datasets/ChengyouJia/T2ISBench) &nbsp;
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/densedit.png' alt="sym" width="98%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 [From Ideal to Real: Unified and Data-Efficient Dense Prediction for Real-World Scenarios 🔥](https://arxiv.org/abs/2506.20279) <span style="color:red">[Preprint]</span> \\
 Changliang Xia, **Chengyou Jia\***, Zhuohang Dang, Minnan Luo
@@ -96,6 +98,8 @@ Changliang Xia, **Chengyou Jia\***, Zhuohang Dang, Minnan Luo
 [**Datasets**](https://huggingface.co/datasets/xcll/DenseWorld_Benchmark) &nbsp;
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/ChatGen.png' alt="sym" width="98%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 [ChatGen: Automatic Text-to-Image Generation From FreeStyle Chatting 🔥🔥](https://arxiv.org/abs/2411.17176) <span style="color:red">[CCF-A]</span> \\
 **Chengyou Jia\***, Changliang Xia\*, Zhuohang Dang, Weijia Wu, Hangwei Qian, Minnan Luo
@@ -112,10 +116,10 @@ Changliang Xia, **Chengyou Jia\***, Zhuohang Dang, Minnan Luo
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/AgentStore.png' alt="sym" width="98%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 Findings</div><img src='images/AgentStore.png' alt="sym" width="98%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[AgentStore: Scalable Integration of Heterogeneous Agents As Specialized Generalist Computer Assistant 🔥🔥](https://arxiv.org/abs/2410.18603) <span style="color:red">[Preprint]</span> \\
+[AgentStore: Scalable Integration of Heterogeneous Agents As Specialized Generalist Computer Assistant 🔥🔥](https://arxiv.org/abs/2410.18603) <span style="color:red"></span> \\
 **Chengyou Jia**, Minnan Luo, Zhuohang Dang, Qiushi Sun, Fangzhi Xu, Junlin Hu, Tianbao Xie, Zhiyong Wu
 
 [**Code**](https://github.com/chengyou-jia/AgentStore) &nbsp;
@@ -173,10 +177,16 @@ Zhiyong Wu, Zhenyu Wu, Fangzhi Xu, Yian Wang, Qiushi Sun, **Chengyou Jia**, Kanz
 
 #### 🧑‍ Other Paper
 
-- ``Preprint`` [PhysReason: A Comprehensive Benchmark towards Physics-Based Reasoning](http://arxiv.org/abs/2502.12054) <span style="color:red"></span> <br>
+- ``Preprint`` [Autogps: Automated geometry problem solving via multimodal formalization and deductive reasoning](https://arxiv.org/abs/2505.23381) <br>
+Bowen Ping, Minnan Luo, Zhuohang Dang, Chenxi Wang, **Chengyou Jia**
+
+- ``Preprint`` [Multi-Modal Dataset Distillation in the Wild](https://arxiv.org/abs/2506.01586) <br>
+Zhuohang Dang, Minnan Luo, **Chengyou Jia**, Hangwei Qian, Xiaojun Chang, Ivor W Tsang
+
+- ``ACL 2025`` [PhysReason: A Comprehensive Benchmark towards Physics-Based Reasoning](http://arxiv.org/abs/2502.12054) <span style="color:red">[CCF-A]</span> <br>
 Xinyu Zhang, Yuxuan Dong, Yanrui Wu, Jiaxing Huang, **Chengyou Jia**, Basura Fernando, Mike Zheng Shou, Lingling Zhang, Jun Liu
 
-- ``Preprint`` [OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse Task Synthesis](https://arxiv.org/abs/2412.19723) <span style="color:red"></span> <br>
+- ``ACL 2025`` [OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse Task Synthesis](https://arxiv.org/abs/2412.19723) <span style="color:red">[CCF-A]</span> <br>
 Qiushi Sun, Kanzhi Cheng, Zichen Ding, Chuanyang Jin, Yian Wang, Fangzhi Xu, Zhenyu Wu, **Chengyou Jia**, Liheng Chen, Zhoumianze Liu, \\
 Ben Kao, Guohao Li, Junxian He, Yu Qiao, Zhiyong Wu
 
@@ -199,7 +209,7 @@ Ben Kao, Guohao Li, Junxian He, Yu Qiao, Zhiyong Wu
 - ``IEEE TCSVT`` [Counterfactual Generation Framework for Few-Shot Learning](https://ieeexplore.ieee.org/abstract/document/10035001/) <span style="color:red">[CCF-B]</span> <br>
   Zhuohang Dang, Minnan Luo, **Chengyou Jia**, Caixia Yan, Xiaojun Chang, Qinghua Zheng
 
-- ``Preprint`` [Disentangled Noisy Correspondence Learning](https://arxiv.org/abs/2408.05503) <span style="color:red"></span> <br>
+- ``IEEE TIP`` [Disentangled Noisy Correspondence Learning](https://arxiv.org/abs/2408.05503) <span style="color:red"></span> <br>
   Zhuohang Dang, Minnan Luo, Jihong Wang, **Chengyou Jia**, Haochen Han, Herun Wan, Guang Dai, Xiaojun Chang, Jingdong Wang
 
 <span class='anchor' id='-honors-and-awards'></span>
