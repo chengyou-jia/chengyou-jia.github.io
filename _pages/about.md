@@ -22,14 +22,16 @@ redirect_from:
 I am Chengyou Jia (贾成铕), a Ph.D candidate in Xi’an Jiaotong University, major in Computer Science, under the supervision of [Prof. Minnan Luo](https://scholar.google.com/citations?user=C3ujEF0AAAAJ&hl). I am also working closely with [Prof. Xiaojun Chang](https://scholar.google.com/citations?user=8suupocAAAAJ&hl). I am currently a visiting student in Singapore under the supervision of [Prof. Ivor](https://www.a-star.edu.sg/cfar/about-cfar/management/prof-ivor-tsang). Previously, I was a research intern at Shanghai AI LAB, supervised by [Dr. Zhiyong Wu](https://lividwo.github.io/zywu.github.io/). Before starting my doctoral studies, I received my B.E. degree from Xi’an Jiaotong University in 2021.
 
 
-I have authored several publications in top-tier conferences and journals, including CVPR, AAAI, ACM-MM, IEEE TIP, among others. I also serve as a reviewer for esteemed conferences and journals like ECCV, AAAI, ICASSP, IEEE TIP and IEEE TNNLS.
+I have authored several publications in top-tier conferences and journals, including CVPR, AAAI, ACL, ACM-MM, IEEE TIP, among others. I also serve as a reviewer for esteemed conferences and journals like NIPS, ECCV, AAAI, IEEE TIP and IEEE TNNLS.
+
+<span style="color:red">I am currently on the job market for Fall 2025. Please feel free to reach out!🔥</span>
 
 ## Research Interests
 
 I am working in the field of CV 
 &amp; Multi-modal. My current research interests and past experience can be summarized as follows:
 
-- Controllable Image Generation: Text-to-image; Layout-to-image; Complex Scene Generation
+- Controllable Image Generation: Text-to-image; Layout-to-image; Consistent Generation
 - Multimodal learning: Multimodal for Open-set Recognition;
 Multimodal for Automated Agents
 - Object Detection 
@@ -38,6 +40,8 @@ Multimodal for Automated Agents
 <span class='anchor' id='-news'></span>
 
 # 🔥 News
+- *2025.06*: &nbsp; Our papers [T2IS, DenseDiT, AutoGPS] are recently released. 🎉🎉 
+- *2025.05*: &nbsp; Three papers are accepeted by ACL 2025 . 🎉🎉 
 - *2025.02*: &nbsp; ChatGen is accepeted by CVPR 2025. 🎉🎉 
 - *2025.01*: &nbsp; OS-Atlas is accepeted by ICLR 2025 (Spotlight). 🎉🎉 
 - *2024.12*: &nbsp; One paper is accepted by IEEE TCSVT. 🎉🎉 
@@ -69,6 +73,29 @@ Multimodal for Automated Agents
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/ChatGen.png' alt="sym" width="98%"></div></div>
 <div class='paper-box-text' markdown="1">
+
+
+[Why Settle for One? Text-to-ImageSet Generation and Evaluation 🔥](https://arxiv.org/abs/*) <span style="color:red">[CCF-A]</span> \\
+**Chengyou Jia**, Xin Shen, Zhuohang Dang, Changliang Xia, Weijia Wu, Xinyu Zhang, Huangwei Qian, Ivor Tsang, Minnan Luo
+
+(\* means equal contributions)
+
+[**Code**](https://github.com/chengyou-jia/T2IS) &nbsp;
+[**Project Page**](https://chengyou-jia.github.io/T2IS-Home/) &nbsp;
+[**Datasets**](https://huggingface.co/datasets/ChengyouJia/T2ISBench) &nbsp;
+
+
+[From Ideal to Real: Unified and Data-Efficient Dense Prediction for Real-World Scenarios 🔥](https://arxiv.org/abs/2506.20279) <span style="color:red">[Preprint]</span> \\
+Changliang Xia, **Chengyou Jia\***, Zhuohang Dang, Minnan Luo
+
+(\* means equal contributions)
+
+[**Code**](https://github.com/xcltql666/DenseDiT) &nbsp;
+[**Project Page**](https://xcltql666.github.io/DenseDiTProj/) &nbsp;
+[**Models**](https://huggingface.co/xcll/DenseDiT_Model) &nbsp;
+[**Datasets**](https://huggingface.co/datasets/xcll/DenseWorld_Benchmark) &nbsp;
+
+
 
 [ChatGen: Automatic Text-to-Image Generation From FreeStyle Chatting 🔥🔥](https://arxiv.org/abs/2411.17176) <span style="color:red">[CCF-A]</span> \\
 **Chengyou Jia\***, Changliang Xia\*, Zhuohang Dang, Weijia Wu, Hangwei Qian, Minnan Luo
