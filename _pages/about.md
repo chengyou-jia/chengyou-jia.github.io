@@ -79,9 +79,7 @@ Multimodal for Automated Agents
 
 (\* means equal contributions)
 
-[**Project Page**](https://chengyou-jia.github.io/T2IS-Home/) &nbsp;
-[**Code**](https://chengyou-jia.github.io/T2IS-Home/) &nbsp;
-[**Datasets**](https://huggingface.co/datasets/ChengyouJia/T2ISBench) &nbsp;
+[**Project Page**](https://chengyou-jia.github.io/T2IS-Home/) &nbsp; (Stay tuned for the code and dataset!)
 
 </div>
 </div>
@@ -245,4 +243,4 @@ Ben Kao, Guohao Li, Junxian He, Yu Qiao, Zhiyong Wu
 
 <span class='anchor' id='-academic-services'></span>
 # 💬 Academic Services
-- Reviewer: ECCV, AAAI, ICASSP, IEEE TIP, IEEE TCSVT and IEEE TNNLS.
+- Reviewer: NIPS, ECCV, AAAI, ICASSP, IEEE TIP, IEEE TCSVT and IEEE TNNLS.
