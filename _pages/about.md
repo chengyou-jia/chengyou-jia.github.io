@@ -41,7 +41,7 @@ Multimodal for Automated Agents
 
 # 🔥 News
 - *2025.06*: &nbsp; Our papers [T2IS, DenseDiT, AutoGPS] are recently released. 🎉🎉 
-- *2025.05*: &nbsp; Three papers are accepeted by ACL 2025 . 🎉🎉 
+- *2025.05*: &nbsp; Three papers are accepeted by ACL 2025. 🎉🎉 
 - *2025.02*: &nbsp; ChatGen is accepeted by CVPR 2025. 🎉🎉 
 - *2025.01*: &nbsp; OS-Atlas is accepeted by ICLR 2025 (Spotlight). 🎉🎉 
 - *2024.12*: &nbsp; One paper is accepted by IEEE TCSVT. 🎉🎉 
@@ -83,6 +83,9 @@ Multimodal for Automated Agents
 [**Code**](https://chengyou-jia.github.io/T2IS-Home/) &nbsp;
 [**Datasets**](https://huggingface.co/datasets/ChengyouJia/T2ISBench) &nbsp;
 
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/densedit.png' alt="sym" width="98%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -96,6 +99,9 @@ Changliang Xia, **Chengyou Jia\***, Zhuohang Dang, Minnan Luo
 [**Project Page**](https://xcltql666.github.io/DenseDiTProj/) &nbsp;
 [**Models**](https://huggingface.co/xcll/DenseDiT_Model) &nbsp;
 [**Datasets**](https://huggingface.co/datasets/xcll/DenseWorld_Benchmark) &nbsp;
+
+</div>
+</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/ChatGen.png' alt="sym" width="98%"></div></div>
