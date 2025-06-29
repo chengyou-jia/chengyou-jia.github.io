@@ -99,6 +99,7 @@ Changliang Xia, **Chengyou Jia\***, Zhuohang Dang, Minnan Luo
 [**Project Page**](https://xcltql666.github.io/DenseDiTProj/) &nbsp;
 [**Models**](https://huggingface.co/xcll/DenseDiT_Model) &nbsp;
 [**Datasets**](https://huggingface.co/datasets/xcll/DenseWorld_Benchmark) &nbsp;
+[![](https://img.shields.io/github/stars/xcltql666/DenseDiT?style=social&label=Code+Stars)](https://github.com/xcltql666/DenseDiT)
 
 </div>
 </div>
