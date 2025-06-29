@@ -89,7 +89,7 @@ Multimodal for Automated Agents
 <div class='paper-box-text' markdown="1">
 
 [From Ideal to Real: Unified and Data-Efficient Dense Prediction for Real-World Scenarios 🔥](https://arxiv.org/abs/2506.20279) <span style="color:red">[Preprint]</span> \\
-Changliang Xia, **Chengyou Jia\***, Zhuohang Dang, Minnan Luo
+Changliang Xia\*, **Chengyou Jia\***, Zhuohang Dang, Minnan Luo
 
 (\* means equal contributions)
 
