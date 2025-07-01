@@ -74,10 +74,9 @@ Multimodal for Automated Agents
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/t2is.png' alt="sym" width="98%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Why Settle for One? Text-to-ImageSet Generation and Evaluation 🔥](https://arxiv.org/abs/*) <span style="color:red">[Preprint]</span> \\
+[Why Settle for One? Text-to-ImageSet Generation and Evaluation 🔥](https://arxiv.org/abs/2506.23275) <span style="color:red">[Preprint]</span> \\
 **Chengyou Jia**, Xin Shen, Zhuohang Dang, Changliang Xia, Weijia Wu, Xinyu Zhang, Huangwei Qian, Ivor Tsang, Minnan Luo
 
-(\* means equal contributions)
 
 [**Project Page**](https://chengyou-jia.github.io/T2IS-Home/) &nbsp; (Stay tuned for the code and dataset!)
 
