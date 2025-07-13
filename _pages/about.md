@@ -78,7 +78,9 @@ Multimodal for Automated Agents
 **Chengyou Jia**, Xin Shen, Zhuohang Dang, Changliang Xia, Weijia Wu, Xinyu Zhang, Huangwei Qian, Ivor Tsang, Minnan Luo
 
 
-[**Project Page**](https://chengyou-jia.github.io/T2IS-Home/) &nbsp; (Stay tuned for the code and dataset!)
+[**Project Page**](https://chengyou-jia.github.io/T2IS-Home/) &nbsp; 
+[**Datasets**](https://huggingface.co/datasets/ChengyouJia/T2IS-Bench) &nbsp;
+[**Code**](https://github.com/chengyou-jia/T2IS) &nbsp;
 
 </div>
 </div>
