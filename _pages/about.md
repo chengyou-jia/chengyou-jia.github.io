@@ -81,6 +81,8 @@ Multimodal for Automated Agents
 [**Project Page**](https://chengyou-jia.github.io/T2IS-Home/) &nbsp; 
 [**Datasets**](https://huggingface.co/datasets/ChengyouJia/T2IS-Bench) &nbsp;
 [**Code**](https://github.com/chengyou-jia/T2IS) &nbsp;
+[![](https://img.shields.io/badge/hf_downloads-%3E100-steelblue.svg)](https://huggingface.co/datasets/ChengyouJia/T2IS-Bench) &nbsp;
+[![](https://img.shields.io/github/stars/chengyou-jia/T2IS?style=social&label=Code+Stars)](https://github.com/chengyou-jia/T2IS)
 
 </div>
 </div>
@@ -116,6 +118,7 @@ Changliang Xia\*, **Chengyou Jia\***, Zhuohang Dang, Minnan Luo
 [**Project Page**](https://chengyou-jia.github.io/ChatGen-Home/) &nbsp;
 [**Datasets**](https://huggingface.co/datasets/ChengyouJia/ChatGenBench) &nbsp;
 [**Models**](https://huggingface.co/collections/ChengyouJia/chatgen-6744724ae834402b5b69037b) &nbsp;
+[![](https://img.shields.io/badge/hf_downloads-%3E200-steelblue.svg)](https://huggingface.co/datasets/ChengyouJia/ChatGenBench) &nbsp;
 [![](https://img.shields.io/github/stars/chengyou-jia/ChatGen?style=social&label=Code+Stars)](https://github.com/chengyou-jia/ChatGen)
 
 </div>
