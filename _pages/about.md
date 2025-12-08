@@ -40,6 +40,10 @@ Multimodal for Automated Agents
 <span class='anchor' id='-news'></span>
 
 # 🔥 News
+
+- *2025.12*: &nbsp; Our papers PaCo-RL is recently released.. 🎉🎉 
+- *2025.11*: &nbsp; One paper is accepted by AAAI 2026. 🎉🎉 
+- *2025.10*: &nbsp; CoFFT is accepted by NeurIPS 2025. 🎉🎉 
 - *2025.06*: &nbsp; Our papers [T2IS, DenseDiT, AutoGPS] are recently released. 🎉🎉 
 - *2025.05*: &nbsp; Three papers are accepeted by ACL 2025. 🎉🎉 
 - *2025.02*: &nbsp; ChatGen is accepeted by CVPR 2025. 🎉🎉 
@@ -69,6 +73,23 @@ Multimodal for Automated Agents
 <span class='anchor' id='-publications'></span>
 
 # 📝 Selected Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/paco.png' alt="PaCo-RL" width="98%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[PaCo-RL: Advancing Reinforcement Learning for Consistent Image Generation with Pairwise Reward Modeling](https://arxiv.org/abs/2512.04784) <span style="color:red">[Preprint]</span>  
+Bowen Ping, **Chengyou Jia**, Minnan Luo, Changliang Xia, Xin Shen, Zhuohang Dang, Hangwei Qian
+
+[**Project Page**](https://x-gengroup.github.io/HomePage_PaCo-RL/) &nbsp; 
+[**Datasets**](https://huggingface.co/collections/X-GenGroup/paco-rl) &nbsp;
+[**Code**](https://github.com/X-GenGroup/PaCo-RL) &nbsp;
+[![](https://img.shields.io/badge/hf_downloads-%3E100-steelblue.svg)](https://huggingface.co/collections/X-GenGroup/paco-rl) &nbsp;
+[![](https://img.shields.io/github/stars/X-GenGroup/PaCo-RL?style=social&label=Code+Stars)](https://github.com/X-GenGroup/PaCo-RL)
+
+
+</div>
+</div>
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/t2is.png' alt="sym" width="98%"></div></div>
@@ -186,11 +207,23 @@ Zhiyong Wu, Zhenyu Wu, Fangzhi Xu, Yian Wang, Qiushi Sun, **Chengyou Jia**, Kanz
 
 #### 🧑‍ Other Paper
 
+
+
 - ``Preprint`` [Autogps: Automated geometry problem solving via multimodal formalization and deductive reasoning](https://arxiv.org/abs/2505.23381) <br>
 Bowen Ping, Minnan Luo, Zhuohang Dang, Chenxi Wang, **Chengyou Jia**
 
 - ``Preprint`` [Multi-Modal Dataset Distillation in the Wild](https://arxiv.org/abs/2506.01586) <br>
 Zhuohang Dang, Minnan Luo, **Chengyou Jia**, Hangwei Qian, Xiaojun Chang, Ivor W Tsang
+
+
+- ``AAAI 2026`` [Correspondence Coverage Matters for Multi-Modal Dataset Distillation](#) <span style="color:red">[CCF-A]</span> <br>
+  Zhuohang Dang, Minnan Luo, **Chengyou Jia**, Hangwei Qian, Xinyu Zhang, Xiaojun Chang, Ivor Tsang
+
+
+
+- ``NeurIPS 2025`` [CoFFT: Chain of Foresight-Focus Thought for Visual Language Models](https://arxiv.org/abs/2509.22010) <span style="color:red">[CCF-A]</span> <br>
+Xinyu Zhang, Yuxuan Dong, Lingling Zhang, **Chengyou Jia**, Zhuohang Dang, Basura Fernando, Jun Liu, Mike Zheng Shou
+
 
 - ``ACL 2025`` [PhysReason: A Comprehensive Benchmark towards Physics-Based Reasoning](http://arxiv.org/abs/2502.12054) <span style="color:red">[CCF-A]</span> <br>
 Xinyu Zhang, Yuxuan Dong, Yanrui Wu, Jiaxing Huang, **Chengyou Jia**, Basura Fernando, Mike Zheng Shou, Lingling Zhang, Jun Liu
