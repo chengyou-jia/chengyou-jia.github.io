@@ -41,7 +41,7 @@ Multimodal for Automated Agents
 
 # 🔥 News
 
-- *2025.12*: &nbsp; Our papers PaCo-RL is recently released.. 🎉🎉 
+- *2025.12*: &nbsp; Our paper PaCo-RL is recently released.. 🎉🎉 
 - *2025.11*: &nbsp; One paper is accepted by AAAI 2026. 🎉🎉 
 - *2025.10*: &nbsp; CoFFT is accepted by NeurIPS 2025. 🎉🎉 
 - *2025.06*: &nbsp; Our papers [T2IS, DenseDiT, AutoGPS] are recently released. 🎉🎉 
@@ -78,7 +78,9 @@ Multimodal for Automated Agents
 <div class='paper-box-text' markdown="1">
 
 [PaCo-RL: Advancing Reinforcement Learning for Consistent Image Generation with Pairwise Reward Modeling](https://arxiv.org/abs/2512.04784) <span style="color:red">[Preprint]</span>  
-Bowen Ping, **Chengyou Jia**, Minnan Luo, Changliang Xia, Xin Shen, Zhuohang Dang, Hangwei Qian
+Bowen Ping\*, **Chengyou Jia\***, Minnan Luo, Changliang Xia, Xin Shen, Zhuohang Dang, Hangwei Qian
+
+(\* means equal contributions)
 
 [**Project Page**](https://x-gengroup.github.io/HomePage_PaCo-RL/) &nbsp; 
 [**Datasets**](https://huggingface.co/collections/X-GenGroup/paco-rl) &nbsp;
