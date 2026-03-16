@@ -29,17 +29,17 @@ I have authored several publications in top-tier conferences and journals, inclu
 I am working in the field of CV 
 &amp; Multi-modal. My current research interests and past experience can be summarized as follows:
 
-- Controllable Image Generation: Text-to-image; Layout-to-image; Consistent Generation
-- Multimodal Agent: GUIAgent, Agentic Vision Generation
-- Object Detection 
-&amp; Identification: Person Search, Person Re-Identification
+- Agentic Vision Generation: Consistent Generation, Video Generation，Reward Model and RL for visual Generation
+- Multimodal Agent: GUIAgent, Multi-Agent Systems
+<!-- - Object Detection 
+&amp; Identification: Person Search, Person Re-Identification -->
 UIA
 <span class='anchor' id='-news'></span>
 
 # 🔥 News
 
-- *2026.02*: &nbsp; Our paper PaCo-RL is accepted by CVPR 2026. 🎉🎉 
-- *2025.12*: &nbsp; Our paper PaCo-RL is recently released. 🎉🎉 
+- *2026.02*: &nbsp; Our paper [PaCo-RL, Chain-of-Merging] is accepted by CVPR 2026. 🎉🎉 
+<!-- - *2025.12*: &nbsp; Our paper PaCo-RL is recently released. 🎉🎉  -->
 - *2025.11*: &nbsp; One paper is accepted by AAAI 2026. 🎉🎉 
 - *2025.10*: &nbsp; CoFFT is accepted by NeurIPS 2025. 🎉🎉 
 - *2025.06*: &nbsp; Our papers [T2IS, DenseDiT, AutoGPS] are recently released. 🎉🎉 
@@ -91,7 +91,7 @@ Bowen Ping\*, **Chengyou Jia\***, Minnan Luo, Changliang Xia, Xin Shen, Zhuohang
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026 Workshop</div><img src='images/flowfactory.png' alt="Flow-Factory" width="98%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026 Workshop</div><img src='images/flow.png' alt="Flow-Factory" width="98%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Flow-Factory: A Unified Framework for Reinforcement Learning in Flow-Matching Models](https://arxiv.org/abs/2602.12529) <span style="color:red">[Workshop]</span> \\
@@ -220,7 +220,8 @@ Zhiyong Wu, Zhenyu Wu, Fangzhi Xu, Yian Wang, Qiushi Sun, **Chengyou Jia**, Kanz
 
 #### 🧑‍ Other Paper
 
-
+- ``CVPR 2026`` [Beyond Layer-Wise Merging: Chain-of-Merging for Vision-Language Models](#) <span style="color:red">[CCF-A]</span> <br>
+Xinyu Zhang, Yuxuan Dong, Lingling Zhang, **Chengyou Jia**, Zhuohang Dang, YiXing Yao, Yaqiang Wu, Basura Fernando, Jun Liu
 
 - ``ICLR 2025`` [Autogps: Automated geometry problem solving via multimodal formalization and deductive reasoning](https://arxiv.org/abs/2505.23381) <span style="color:red">[CCF-A]</span> <br>
 Bowen Ping, Minnan Luo, Zhuohang Dang, Chenxi Wang, **Chengyou Jia**
