@@ -19,7 +19,7 @@ redirect_from:
 
 # 😎 About Me
 
-I am Chengyou Jia (贾成铕), a final-year Ph.D. student in Computer Science at Xi’an Jiaotong University. I am going to be a researcher in the **Hunyuan team** of Tencent (Qingyun Project). My Ph.D. advisor is [Prof. Minnan Luo](https://scholar.google.com/citations?user=C3ujEF0AAAAJ&hl), and I am also working closely with [Prof. Xiaojun Chang](https://scholar.google.com/citations?user=8suupocAAAAJ&hl).  Previously, I was a visiting student in Singapore under the supervision of [Prof. Ivor](https://www.a-star.edu.sg/cfar/about-cfar/management/prof-ivor-tsang), and a research intern at Shanghai AI LAB, supervised by [Dr. Zhiyong Wu](https://lividwo.github.io/zywu.github.io/). I received my B.E. degree from Xi’an Jiaotong University in 2021.
+I am Chengyou Jia (贾成铕), a final-year Ph.D. student in Computer Science at Xi’an Jiaotong University. I am going to be a researcher in the **Hunyuan Team** of Tencent (Qingyun Project). My Ph.D. advisor is [Prof. Minnan Luo](https://scholar.google.com/citations?user=C3ujEF0AAAAJ&hl), and I am also working closely with [Prof. Xiaojun Chang](https://scholar.google.com/citations?user=8suupocAAAAJ&hl).  Previously, I was a visiting student in Singapore under the supervision of [Prof. Ivor](https://www.a-star.edu.sg/cfar/about-cfar/management/prof-ivor-tsang), and a research intern at Shanghai AI LAB, supervised by [Dr. Zhiyong Wu](https://lividwo.github.io/zywu.github.io/). I received my B.E. degree from Xi’an Jiaotong University in 2021.
 
 
 I have authored several publications in top-tier conferences and journals, including CVPR, AAAI, ACL, IEEE TIP, among others. I also serve as a reviewer for esteemed conferences and journals like NIPS, ICML, CVPR, ECCV.
@@ -175,7 +175,7 @@ Changliang Xia\*, **Chengyou Jia\***, Zhuohang Dang, Minnan Luo
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/OSAtlas.png' alt="sym" width="98%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[OS-ATLAS: A Foundation Action Model for Generalist GUI Agents 🔥🔥](https://arxiv.org/abs/2410.23218) <span style="color:red">[CAAI-A]</span> \\
+[OS-ATLAS: A Foundation Action Model for Generalist GUI Agents 🔥🔥](https://arxiv.org/abs/2410.23218) <span style="color:red">[CCF-A]</span> \\
 Zhiyong Wu, Zhenyu Wu, Fangzhi Xu, Yian Wang, Qiushi Sun, **Chengyou Jia**, Kanzhi Cheng, Zichen Ding, Liheng Chen, Paul Pu Liang, Yu Qiao
 
 [**Code**](https://github.com/OS-Copilot/OS-Atlas) &nbsp;
@@ -222,7 +222,7 @@ Zhiyong Wu, Zhenyu Wu, Fangzhi Xu, Yian Wang, Qiushi Sun, **Chengyou Jia**, Kanz
 
 
 
-- ``Preprint`` [Autogps: Automated geometry problem solving via multimodal formalization and deductive reasoning](https://arxiv.org/abs/2505.23381) <br>
+- ``ICLR 2025`` [Autogps: Automated geometry problem solving via multimodal formalization and deductive reasoning](https://arxiv.org/abs/2505.23381) <span style="color:red">[CCF-A]</span> <br>
 Bowen Ping, Minnan Luo, Zhuohang Dang, Chenxi Wang, **Chengyou Jia**
 
 - ``Preprint`` [Multi-Modal Dataset Distillation in the Wild](https://arxiv.org/abs/2506.01586) <br>
