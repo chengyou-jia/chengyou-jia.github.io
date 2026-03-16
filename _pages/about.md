@@ -19,7 +19,7 @@ redirect_from:
 
 # 😎 About Me
 
-I am Chengyou Jia (贾成铕). A final-year Ph.D from Xi’an Jiaotong University, major in Computer Science, under the supervision of [Prof. Minnan Luo](https://scholar.google.com/citations?user=C3ujEF0AAAAJ&hl). I am going to be a researcher in the **Hunyuan team** of Tencent (Qingyun Project). Previously, I was a visiting student in Singapore under the supervision of [Prof. Ivor](https://www.a-star.edu.sg/cfar/about-cfar/management/prof-ivor-tsang), and a research intern at Shanghai AI LAB, supervised by [Dr. Zhiyong Wu](https://lividwo.github.io/zywu.github.io/). I received my B.E. degree from Xi’an Jiaotong University in 2021.
+I am Chengyou Jia (贾成铕), a final-year Ph.D. student in Computer Science at Xi’an Jiaotong University. I am going to be a researcher in the **Hunyuan team** of Tencent (Qingyun Project). My Ph.D. advisor is [Prof. Minnan Luo](https://scholar.google.com/citations?user=C3ujEF0AAAAJ&hl), and I am also working closely with [Prof. Xiaojun Chang](https://scholar.google.com/citations?user=8suupocAAAAJ&hl).  Previously, I was a visiting student in Singapore under the supervision of [Prof. Ivor](https://www.a-star.edu.sg/cfar/about-cfar/management/prof-ivor-tsang), and a research intern at Shanghai AI LAB, supervised by [Dr. Zhiyong Wu](https://lividwo.github.io/zywu.github.io/). I received my B.E. degree from Xi’an Jiaotong University in 2021.
 
 
 I have authored several publications in top-tier conferences and journals, including CVPR, AAAI, ACL, IEEE TIP, among others. I also serve as a reviewer for esteemed conferences and journals like NIPS, ICML, CVPR, ECCV.
@@ -64,7 +64,7 @@ UIA
 
 # 💻 Internships
 - *2026.03 - Present*, Researcher @ Tencent Hunyuan Team.
-- *2024.11 - 2025.02*, Research Intern @ CFAR, A*STAR. Focus on Multimodal Agents for Image Generation.
+- *2024.11 - 2025.11*, Research Intern @ CFAR, A*STAR. Focus on Multimodal Agents for Image Generation.
 - *2024.03 - 2024.10*, Research Intern @ Shanghai AI LAB. Focus on Multimodal Agents for OS (Operating System).
 - *2022.12 - 2024.03*, Research Intern @ SGIT AI Lab, State Grid Corporation of China. Focus on Controllable Image Generation.
 
@@ -87,6 +87,18 @@ Bowen Ping\*, **Chengyou Jia\***, Minnan Luo, Changliang Xia, Xin Shen, Zhuohang
 [![](https://img.shields.io/badge/hf_downloads-%3E100-steelblue.svg)](https://huggingface.co/collections/X-GenGroup/paco-rl) &nbsp;
 [![](https://img.shields.io/github/stars/X-GenGroup/PaCo-RL?style=social&label=Code+Stars)](https://github.com/X-GenGroup/PaCo-RL)
 
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026 Workshop</div><img src='images/flowfactory.png' alt="Flow-Factory" width="98%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Flow-Factory: A Unified Framework for Reinforcement Learning in Flow-Matching Models](https://arxiv.org/abs/2602.12529) <span style="color:red">[Workshop]</span> \\
+Bowen Ping, **Chengyou Jia**, Minnan Luo, Hangwei Qian, Ivor Tsang
+
+[**Code**](https://github.com/X-GenGroup/Flow-Factory) &nbsp;
+[![](https://img.shields.io/github/stars/X-GenGroup/Flow-Factory?style=social&label=Code+Stars)](https://github.com/X-GenGroup/Flow-Factory)
 
 </div>
 </div>
