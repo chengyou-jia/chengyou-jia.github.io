@@ -19,12 +19,10 @@ redirect_from:
 
 # 😎 About Me
 
-I am Chengyou Jia (贾成铕), a Ph.D candidate in Xi’an Jiaotong University, major in Computer Science, under the supervision of [Prof. Minnan Luo](https://scholar.google.com/citations?user=C3ujEF0AAAAJ&hl). I am also working closely with [Prof. Xiaojun Chang](https://scholar.google.com/citations?user=8suupocAAAAJ&hl). I am currently a visiting student in Singapore under the supervision of [Prof. Ivor](https://www.a-star.edu.sg/cfar/about-cfar/management/prof-ivor-tsang). Previously, I was a research intern at Shanghai AI LAB, supervised by [Dr. Zhiyong Wu](https://lividwo.github.io/zywu.github.io/). Before starting my doctoral studies, I received my B.E. degree from Xi’an Jiaotong University in 2021.
+I am Chengyou Jia (贾成铕). A final-year Ph.D from Xi’an Jiaotong University, major in Computer Science, under the supervision of [Prof. Minnan Luo](https://scholar.google.com/citations?user=C3ujEF0AAAAJ&hl). I am going to be a researcher in the **Hunyuan team** of Tencent (Qingyun Project). Previously, I was a visiting student in Singapore under the supervision of [Prof. Ivor](https://www.a-star.edu.sg/cfar/about-cfar/management/prof-ivor-tsang), and a research intern at Shanghai AI LAB, supervised by [Dr. Zhiyong Wu](https://lividwo.github.io/zywu.github.io/). I received my B.E. degree from Xi’an Jiaotong University in 2021.
 
 
-I have authored several publications in top-tier conferences and journals, including CVPR, AAAI, ACL, ACM-MM, IEEE TIP, among others. I also serve as a reviewer for esteemed conferences and journals like NIPS, ECCV, AAAI, IEEE TIP and IEEE TNNLS.
-
-<span style="color:red">I am currently on the job market for Fall 2025. Please feel free to reach out!🔥</span>
+I have authored several publications in top-tier conferences and journals, including CVPR, AAAI, ACL, IEEE TIP, among others. I also serve as a reviewer for esteemed conferences and journals like NIPS, ICML, CVPR, ECCV.
 
 ## Research Interests
 
@@ -32,16 +30,16 @@ I am working in the field of CV
 &amp; Multi-modal. My current research interests and past experience can be summarized as follows:
 
 - Controllable Image Generation: Text-to-image; Layout-to-image; Consistent Generation
-- Multimodal learning: Multimodal for Open-set Recognition;
-Multimodal for Automated Agents
+- Multimodal Agent: GUIAgent, Agentic Vision Generation
 - Object Detection 
 &amp; Identification: Person Search, Person Re-Identification
-
+UIA
 <span class='anchor' id='-news'></span>
 
 # 🔥 News
 
-- *2025.12*: &nbsp; Our paper PaCo-RL is recently released.. 🎉🎉 
+- *2026.02*: &nbsp; Our paper PaCo-RL is accepted by CVPR 2026. 🎉🎉 
+- *2025.12*: &nbsp; Our paper PaCo-RL is recently released. 🎉🎉 
 - *2025.11*: &nbsp; One paper is accepted by AAAI 2026. 🎉🎉 
 - *2025.10*: &nbsp; CoFFT is accepted by NeurIPS 2025. 🎉🎉 
 - *2025.06*: &nbsp; Our papers [T2IS, DenseDiT, AutoGPS] are recently released. 🎉🎉 
@@ -65,7 +63,8 @@ Multimodal for Automated Agents
 <span class='anchor' id='-internships'></span>
 
 # 💻 Internships
-- *2024.11 - Present*, Research Intern @ CFAR, A*STAR. Focus on Multimodal Agents for Image Generation.
+- *2026.03 - Present*, Researcher @ Tencent Hunyuan Team.
+- *2024.11 - 2025.02*, Research Intern @ CFAR, A*STAR. Focus on Multimodal Agents for Image Generation.
 - *2024.03 - 2024.10*, Research Intern @ Shanghai AI LAB. Focus on Multimodal Agents for OS (Operating System).
 - *2022.12 - 2024.03*, Research Intern @ SGIT AI Lab, State Grid Corporation of China. Focus on Controllable Image Generation.
 
@@ -74,10 +73,10 @@ Multimodal for Automated Agents
 
 # 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/paco.png' alt="PaCo-RL" width="98%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/paco.png' alt="PaCo-RL" width="98%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[PaCo-RL: Advancing Reinforcement Learning for Consistent Image Generation with Pairwise Reward Modeling](https://arxiv.org/abs/2512.04784) <span style="color:red">[Preprint]</span>  
+[PaCo-RL: Advancing Reinforcement Learning for Consistent Image Generation with Pairwise Reward Modeling](https://arxiv.org/abs/2512.04784) <span style="color:red">[CCF-A]</span>  
 Bowen Ping\*, **Chengyou Jia\***, Minnan Luo, Changliang Xia, Xin Shen, Zhuohang Dang, Hangwei Qian
 
 (\* means equal contributions)
@@ -272,6 +271,7 @@ Ben Kao, Guohao Li, Junxian He, Yu Qiao, Zhiyong Wu
 
 <span class='anchor' id='-scholarships'></span>
 # 🎖 Scholarships
+- *2025.09* &emsp; National Scholarship (国家奖学金)
 - *2023.09* &emsp; Freshman First Prize Scholarship (PhD)
 - *2022.09* &emsp; First-Class Fellowships for Graduate Students at Xi’an Jiaotong University, Fellowships.
 - *2020.09* &emsp; Computer Science Special Scholarship at Xi’an Jiaotong University, Fellowships.
