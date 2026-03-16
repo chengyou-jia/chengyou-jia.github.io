@@ -33,12 +33,12 @@ I am working in the field of CV
 - Multimodal Agent: GUIAgent, Multi-Agent Systems
 <!-- - Object Detection 
 &amp; Identification: Person Search, Person Re-Identification -->
-UIA
+
 <span class='anchor' id='-news'></span>
 
 # 🔥 News
 
-- *2026.02*: &nbsp; Our paper [PaCo-RL, Chain-of-Merging] is accepted by CVPR 2026. 🎉🎉 
+- *2026.02*: &nbsp; Our papers [PaCo-RL, Chain-of-Merging] are accepted by CVPR 2026，See you in Denver. 🎉🎉 
 <!-- - *2025.12*: &nbsp; Our paper PaCo-RL is recently released. 🎉🎉  -->
 - *2025.11*: &nbsp; One paper is accepted by AAAI 2026. 🎉🎉 
 - *2025.10*: &nbsp; CoFFT is accepted by NeurIPS 2025. 🎉🎉 
